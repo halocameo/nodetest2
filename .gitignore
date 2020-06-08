@@ -34,3 +34,4 @@ config.json
 
 # New Relic log file
 newrelic_agent.log
+.DS_Store
